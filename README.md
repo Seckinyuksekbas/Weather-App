@@ -1,6 +1,6 @@
 # Weather App
 
-This application provides weather information for a specified city using the OpenWeatherMap API.
+This application provides weather information for a specified city using the OpenWeatherMap API. Due to API key restrictions, you won't be able to run the application locally. Instead, you can view the live version of the app.
 
 ## Technologies Used
 
@@ -8,14 +8,15 @@ This application provides weather information for a specified city using the Ope
 - CSS
 - JavaScript
 
-## Installation
+## Live Demo
 
-1. `git clone https://github.com/Seckinyuksekbas/Weather-App.git`
-2. Open `index.html` to run the application.
+You can view the live application at: [Weather App Live](https://seckindeveloper-weatherapp.netlify.app/)
+
+---
 
 # Weather App
 
-Bu uygulama, OpenWeatherMap API kullanarak belirli bir şehir için hava durumu bilgilerini sağlar.
+Bu uygulama, OpenWeatherMap API kullanarak belirli bir şehir için hava durumu bilgilerini sağlar. API anahtarı kısıtlamaları nedeniyle uygulamayı yerel olarak çalıştıramayacaksınız. Bunun yerine, uygulamanın canlı sürümünü görüntüleyebilirsiniz.
 
 ## Kullanılan Teknolojiler
 
@@ -23,7 +24,6 @@ Bu uygulama, OpenWeatherMap API kullanarak belirli bir şehir için hava durumu 
 - CSS
 - JavaScript
 
-## Kurulum
+## Canlı Demo
 
-1. `git clone https://github.com/Seckinyuksekbas/Weather-App.git`
-2. `index.html` dosyasını açarak uygulamayı çalıştırabilirsiniz.
+Canlı uygulamayı buradan görüntüleyebilirsiniz: [Weather App Canlı](https://seckindeveloper-weatherapp.netlify.app/)
